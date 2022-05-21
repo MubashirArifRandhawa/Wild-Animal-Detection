@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stream Yolov5</title>
+    <style>
+        .app{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-width: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center;">Live Streaming</h1>
+    <div class="app">
+    <img src="{% url 'video_feed' %}" alt=""></img>
+</div>
+</body>
+</html>
