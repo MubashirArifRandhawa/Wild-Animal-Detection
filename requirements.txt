@@ -54,7 +54,6 @@ parso==0.8.3
 pefile==2021.9.3
 pickleshare==0.7.5
 Pillow==9.0.1
-pipreqs==0.4.11
 prompt-toolkit==3.0.28
 protobuf==3.19.4
 pure-eval==0.2.2
@@ -78,12 +77,6 @@ six==1.16.0
 soupsieve==2.0.1
 sqlparse==0.4.2
 stack-data==0.2.0
-tensorboard==2.8.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.8.0
-tensorflow-gpu==2.8.0
-tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 terminaltables==3.1.10
 tf-estimator-nightly==2.8.0.dev2021122109
@@ -97,5 +90,4 @@ wcwidth==0.2.5
 Werkzeug==2.0.3
 wrapt==1.14.0
 yarg==0.1.9
-yolk==0.4.3
 yolov5==6.1.2
